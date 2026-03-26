@@ -23,9 +23,9 @@ export const FIREBASE_CONFIG = {
   storageBucket: "webquiz-e977e.firebasestorage.app",
   messagingSenderId: "844064507296",
   appId: "1:844064507296:web:e8f281c5187188cc0410c5",
-  measurementId: "G-GJLE451LZP"
+  measurementId: "G-GJLE451LZP",
+  databaseURL: "https://webquiz-e977e-default-rtdb.asia-southeast1.firebasedatabase.app"
 };
-
 // ── ROOM ID ───────────────────────────────────────────────────
 // Semua peserta dan host harus pakai ROOM_ID yang sama.
 // Bisa diganti tiap sesi baru supaya data tidak nyampur.
